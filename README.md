@@ -1,4 +1,4 @@
-# Fake News Detection using Apache Spark and PySpark
+# Fake News Detection - A PySpark and Apache Spark Project
 
 Overview:
 This project focuses on building a Fake News Detection system using Apache Spark and PySpark. The goal is to create a robust pipeline that preprocesses textual data, extracts features, and trains machine learning models to classify news articles as either fake or legitimate.
